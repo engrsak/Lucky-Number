@@ -1,0 +1,20 @@
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.exe.config
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.exe
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.pdb
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csprojAssemblyReference.cache
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.Form1.resources
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.Properties.Resources.resources
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csproj.GenerateResource.cache
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.exe
+C:\Users\Nimantha Dilshan\source\repos\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.pdb
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.exe.config
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.exe
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\bin\Debug\LuckyNumberCalculator.pdb
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csprojAssemblyReference.cache
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.Form1.resources
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.Properties.Resources.resources
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csproj.GenerateResource.cache
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.exe
+D:\Visual Studio Project\LuckyNumberCalculator\LuckyNumberCalculator\obj\Debug\LuckyNumberCalculator.pdb
